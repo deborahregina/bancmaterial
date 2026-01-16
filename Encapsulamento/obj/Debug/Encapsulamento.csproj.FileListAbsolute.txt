@@ -1,0 +1,7 @@
+C:\Users\B43817\Desktop\dia2\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+C:\Users\B43817\Desktop\dia2\Encapsulamento\bin\Debug\Encapsulamento.exe
+C:\Users\B43817\Desktop\dia2\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\B43817\Desktop\dia2\Encapsulamento\obj\Debug\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\B43817\Desktop\dia2\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\B43817\Desktop\dia2\Encapsulamento\obj\Debug\Encapsulamento.exe
+C:\Users\B43817\Desktop\dia2\Encapsulamento\obj\Debug\Encapsulamento.pdb
