@@ -1,0 +1,7 @@
+C:\Users\B43817\source\repos\dia3\dia3\bin\Debug\dia3.exe.config
+C:\Users\B43817\source\repos\dia3\dia3\bin\Debug\dia3.exe
+C:\Users\B43817\source\repos\dia3\dia3\bin\Debug\dia3.pdb
+C:\Users\B43817\source\repos\dia3\dia3\obj\Debug\dia3.csprojAssemblyReference.cache
+C:\Users\B43817\source\repos\dia3\dia3\obj\Debug\dia3.csproj.CoreCompileInputs.cache
+C:\Users\B43817\source\repos\dia3\dia3\obj\Debug\dia3.exe
+C:\Users\B43817\source\repos\dia3\dia3\obj\Debug\dia3.pdb
